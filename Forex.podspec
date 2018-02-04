@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.social_media_url = 'https://twitter.com/jingx23'
   s.ios.deployment_target = '9.0'
   s.requires_arc = true
-  s.ios.source_files = 'Forex/Sources/**/*.{swift}'
+  s.ios.source_files = 'Sources/**/*.{swift}'
   # s.resource_bundles = {
   #   'Forex' => ['Forex/Sources/**/*.xib']
   # }
